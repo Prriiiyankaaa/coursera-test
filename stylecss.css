@@ -29,6 +29,10 @@
             padding: 5px 15px;
             
         }
+       h3{
+            border-left: 1px solid black;
+            border-bottom: 1px solid black;
+        }
         @media(min-width: 992px){
             .one{
                 width: 33.33%;
